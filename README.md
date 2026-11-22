@@ -1,5 +1,9 @@
 # Ember Pact
 
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/Arik2779/best-card-game-20261122-1826/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/Arik2779/best-card-game-20261122-1826/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826)
+
 An original card duel for the make.fun bounty
 [best-card-game-20261122-1826](https://make.fun/bounty/best-card-game-20261122-1826).
 Repo: `Arik2779/best-card-game-20261122-1826`.
